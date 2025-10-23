@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Lista de números de inscrição para extrair
+# Lista de números de inscrição para extrair(dados Fícticios)
 inscricoes = [
 20250000001, 20250000002, 20250000003, 20250000004, 20250000005
 ]
